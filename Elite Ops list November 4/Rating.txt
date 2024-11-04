@@ -8,4 +8,4 @@ Rank  Username   Rating
 7			Turkiye		2293
 8			Off				2278
 9			Adrenalean 	2249
-10		Wurie			2229
+10		Wurie			2229.
