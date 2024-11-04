@@ -1,11 +1,10 @@
-Rank  Username   Rating
-1			Remove		2378
-2			Confess		2348
-3			Shop			2332
-4			Mancera		2322
-5			Spawn			2301
-6			venesha		2300
-7			Turkiye		2293
-8			Off				2278
-9			Adrenalean 	2249
-10		Wurie			2229.
+1	Remove	2378
+2	[WIV] Confess	2348
+3	Shop	2332
+4	Mancera	2322
+5	Spawn	2301
+6	[nul] venesha	2300
+7	Turkiye	2293
+8	Off	2278
+9	Adrenalean	2249
+10	Wurie	2229
